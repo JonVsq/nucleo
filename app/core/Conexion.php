@@ -1,5 +1,5 @@
 <?php
-require_once('../config/DatosConexion.php');
+require_once(dirname(__DIR__).'/config/DatosConexion.php');
 class Conexion
 {
     //FUNCION CONECTAR

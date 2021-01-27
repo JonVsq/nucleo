@@ -3,10 +3,11 @@
 define('SERVIDOR', 'localhost');
 
 //EL NOMBRE DE LA BASE DE DATOS QUE DESEA CONECTAR
-define('NOMBRE_BD', 'persona');
+define('NOMBRE_BD', 'task_db');
 
 //EL USUARIO DEL GESTOS DE BASE DE DATOS
 define('USUARIO', 'root');
 
 //CONTRASEÑA DEL GESTOR PARA ACCEDER
 define('PASSWORD', '');
+
